@@ -1,1 +1,2 @@
-this is logout page
+this is logout page,
+this is another logout content
